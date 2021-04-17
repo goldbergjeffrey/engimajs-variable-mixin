@@ -1,0 +1,1 @@
+# qliksense-variable
